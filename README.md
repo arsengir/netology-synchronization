@@ -1,11 +1,6 @@
 ## Overview
-Repository creates for fast running development process with configuration, which are the same from project to project.
-
-## Building
-...
-
-## Troubleshooting
-...
+Домашняя работа к к занятию 1.2 Работа с синхронизацией.  
+Synchronized блоки. Методы wait, notify, sleep. Интерфейс lock.
 
 ## Release Notes
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
