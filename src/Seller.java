@@ -1,7 +1,7 @@
 public class Seller {
 
     private final Carshow carshow;
-    private final int TIME_REGISTER_SALE = 1000;
+    private final int TIME_REGISTER_SALE = 3000;
 
     public Seller(Carshow carshow) {
         this.carshow = carshow;

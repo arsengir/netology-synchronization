@@ -4,7 +4,7 @@ import java.util.List;
 public class Carshow {
     private final int VOLUME_SALES = 10;
     private final int PRODUCTION_CAR = 2000;
-    private final int TIMEOUT_SALES = 5000;
+    private final int TIMEOUT_SALES = 3000;
 
     private final Seller seller = new Seller(this);
     private List<Car> cars = new ArrayList<>();
